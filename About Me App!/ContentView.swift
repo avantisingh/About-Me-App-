@@ -46,7 +46,7 @@ struct ContentView: View {
                         
                     
                 }
-                Button("Click here for more facts...")
+                Button("Click here for more facts!")
                 {
                    Info = "1. I like to read"
                     Info2 = "2. I play tennis"
